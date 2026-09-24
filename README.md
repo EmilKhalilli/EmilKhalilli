@@ -1,16 +1,16 @@
-## Hi there 👋
+Эмиль Халилли
 
-<!--
-**EmilKhalilli/EmilKhalilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QA Automation Engineer / Инженер по тестированию** 
 
-Here are some ideas to get you started:
+Специализируюсь на глубоком ручном тестировании и построении процессов автоматизированного тестирования, анализе сетевого взаимодействия и интеграционном тестировании клиент-серверной архитектуры. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Технический стек:**
+* **Test Automation:** Python, Pytest, Playwright
+* **API & Traffic Analysis:** REST, JSON, Fiddler, Postman
+* **CI/CD & Infrastructure:** Git, GitHub Actions, Docker, Allure Report
+* **Management:** Jira, YouGile, Agile/Scrum
+
+**На данный момент:**
+Разрабатываю E2E-фреймворк для автоматизации тестирования клиент-серверного мессенджера с интеграцией проверок безопасности (XSS, payload manipulation) и непрерывным запуском в CI/CD.
+
+**Связаться со мной:** https://t.me/EmilKhalilli
