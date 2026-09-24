@@ -1,10 +1,10 @@
-Эмиль Халилли
+### Эмиль Халилли
 
 **QA Automation Engineer / Инженер по тестированию** 
 
 Специализируюсь на глубоком ручном тестировании и построении процессов автоматизированного тестирования, анализе сетевого взаимодействия и интеграционном тестировании клиент-серверной архитектуры. 
 
-🛠 **Технический стек:**
+**Технический стек:**
 * **Test Automation:** Python, Pytest, Playwright
 * **API & Traffic Analysis:** REST, JSON, Fiddler, Postman
 * **CI/CD & Infrastructure:** Git, GitHub Actions, Docker, Allure Report
