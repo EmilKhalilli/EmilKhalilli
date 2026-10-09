@@ -11,4 +11,4 @@
 * **Management:** Jira, YouGile, Agile/Scrum
 
 
-**Связаться со мной:** https://t.me/khk_em
+**Связаться со мной:** https://t.me/khk_em | www.linkedin.com/in/emil-khalilli-a806b8442
